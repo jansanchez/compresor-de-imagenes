@@ -1,6 +1,12 @@
 # compresor-de-imagenes
 Compresor de imágenes con Gulp
 
+
+### Clonando el repo
+```
+git clone https://github.com/jansanchez/compresor-de-imagenes.git
+```
+
 ### Instalando el proyecto
 
 ```
